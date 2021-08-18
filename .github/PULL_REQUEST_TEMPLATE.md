@@ -1,0 +1,1 @@
+A simple design of a polling web app following the example on django documentation.
